@@ -1,2 +1,1 @@
-# ccccccgl.GitHub.io
-this is my web
+# ccccccgl.github.io
